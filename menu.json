@@ -1,0 +1,64 @@
+    {
+    "menu": [
+        {
+        "id": 1,
+        "title": "Nasi Goreng Ayam",
+        "harga": 20000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 2,
+        "title": "Nasi Goreng Seafood",
+        "harga": 22000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 3,
+        "title": "Nasi Goreng Kambing",
+        "harga": 25000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 4,
+        "title": "Nasi Goreng Spesial",
+        "harga": 35000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 5,
+        "title": "Nasi Biasa",
+        "harga": 15000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 6,
+        "title": "Nasi Goreng Sosis",
+        "harga": 18000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 7,
+        "title": "Nasi Goreng Mawud",
+        "harga": 20000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 8,
+        "title": "Nasi Goreng Portugal",
+        "harga": 40000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 9,
+        "title": "Nasi Goreng Kambing + Ayam",
+        "harga": 30000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        },
+        {
+        "id": 10,
+        "title": "Nasi Goreng Mix",
+        "harga": 40000,
+        "image":"https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Nasi-Goreng-Ikan-Teri.jpg",
+        }
+    ]
+}
